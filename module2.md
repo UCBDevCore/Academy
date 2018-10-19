@@ -29,6 +29,6 @@ Should include:
 - Good font choices
 - Styled form
 - Use of Grid or Flexbox  
-- Well-formed style cascade (no repetitive styles; utilize class heirarchy)  
+- Well-formed style cascade (no repetitive styles; utilize class hierarchy)  
 
 [Looking for inspiration](https://www.awwwards.com)?

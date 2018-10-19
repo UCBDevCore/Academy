@@ -20,13 +20,14 @@ For mastery of CSS:[CSS in Depth](./resources/CSS%20in%20Depth.pdf)
 
 
 ### Mini Project:
-Create a multipage site purely from HTML.  
+Style your multipage site from last module.  
 Should include:  
-- Sitemap  
-- All types of text elements  
-- At least one image  
-- A form  
-- Proper Structure/Good Readability  
+- Navigation
+- Well organized layout/whitespace  
+- Well spaced text elements 
+- Good font choices
+- Styled form
+- Use of Grid or Flexbox  
+- Well-formed style cascade (no repetitive styles; utilize class heirarchy)  
 
-Feel free to be as creative as you want. Bonus points for meme value.
-FYI we will create a personal website in Module 3, so you may want to get started on it here.
+[Looking for inspiration](https://www.awwwards.com)?

@@ -7,7 +7,7 @@ Additional Resources (highly recommend):
  - [CSS Tricks: Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
  - [CSS Tricks: Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)  
 
-For mastery of CSS:[CSS in Depth](./resources/CSS in Depth.pdf)
+For mastery of CSS:[CSS in Depth](./resources/CSS%20in%20Depth.pdf)
 
 ### Learning Expectations:
 - CSS syntax
